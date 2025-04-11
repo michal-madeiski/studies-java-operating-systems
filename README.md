@@ -9,4 +9,4 @@ Each lab class dir contains a fully implementation of the given algorithm.
 * wt730_Madeiski_zad4 - page substitution algorithm part 2
 * wt730_Madeiski_zad5 - algorithm to balance the load of processors
 
-_wt730_Madeiski_zad5[number] is a two-week homework assignment.<br>_
+_wt730_Madeiski_zad5[number] is a two-week homework assignment._
